@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/27 20:30:13.000.660,=C:\Users\Marcelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/27 20:40:48.000.685,C:\Users\Marcelo\Desktop\Areco\uPrincipal.dfm=C:\Users\Marcelo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/08/27 20:40:48.000.685,C:\Users\Marcelo\Desktop\Areco\uPrincipal.pas=C:\Users\Marcelo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/27 20:41:22.000.005,C:\Users\Marcelo\Desktop\Areco\Estoque.dproj=C:\Users\Marcelo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/08/29 13:42:10.000.204,=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas</Transaction>
+    <Transaction>2024/08/29 13:42:21.000.782,C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.dfm=C:\Users\Marcelo\Desktop\Areco\frontend\uModule.dfm</Transaction>
+    <Transaction>2024/08/29 13:42:21.000.782,C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas=C:\Users\Marcelo\Desktop\Areco\frontend\uModule.pas</Transaction>
+    <Transaction>2024/08/29 13:43:19.775,=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas</Transaction>
+    <Transaction>2024/08/29 13:43:51.096,C:\Users\Marcelo\Desktop\Areco\frontend\uProdutos.pas=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas</Transaction>
+    <Transaction>2024/08/29 13:43:51.096,C:\Users\Marcelo\Desktop\Areco\frontend\uProdutos.dfm=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.dfm</Transaction>
+    <Transaction>2024/08/29 13:52:52.341,=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas</Transaction>
+    <Transaction>2024/08/29 13:53:02.515,C:\Users\Marcelo\Desktop\Areco\frontend\uFunctions.pas=C:\Users\Marcelo\Desktop\Areco\frontend\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
